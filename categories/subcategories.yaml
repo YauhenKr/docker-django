@@ -1,0 +1,50 @@
+- model: categories.Subcategory
+  pk: 1
+  fields:
+    name: Electric Guitars
+    category_id: 1
+- model: categories.Subcategory
+  pk: 2
+  fields:
+    name: Acoustic Guitars
+    category_id: 1
+- model: categories.Subcategory
+  pk: 3
+  fields:
+    name: Bass Guitars
+    category_id: 1
+- model: categories.Subcategory
+  pk: 4
+  fields:
+    name: Strings
+    category_id: 1
+- model: categories.Subcategory
+  pk: 5
+  fields:
+    name: Acoustic Drums
+    category_id: 2
+- model: categories.Subcategory
+  pk: 6
+  fields:
+    name: E-Drums
+    category_id: 2
+- model: categories.Subcategory
+  pk: 7
+  fields:
+    name: Drums Sticks
+    category_id: 2
+- model: categories.Subcategory
+  pk: 8
+  fields:
+    name: Trumpet
+    category_id: 3
+- model: categories.Subcategory
+  pk: 9
+  fields:
+    name: Saxophone
+    category_id: 3
+- model: categories.Subcategory
+  pk: 10
+  fields:
+    name: Trombone
+    category_id: 3

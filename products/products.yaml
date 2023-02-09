@@ -1,0 +1,30 @@
+#- model: products.Product
+#  pk: 2
+#  fields:
+#    name: Tama "RockStar 2"
+#    category: 2
+#    subcategory: 5
+#    price: 1208.50
+#    main_img: "product_img\rock_star.jpg"
+#    img1: "product_img\rock_star2.jpg"
+#    product_details: This drum set is the best one in a balance between price and quality
+- model: products.Product
+  pk: 3
+  fields:
+    name: Vic Firth 5B
+    category: 2
+    subcategory: 7
+    price: 14.5
+    main_img: "product_img\ds.jpg"
+    img1: "product_img\ds1.jpg"
+    product_details: The best pair of a drum sticks for your
+#- model: products.Product
+#  pk: 4
+#  fields:
+#    name: Saxophone
+#    category: 3
+#    subcategory: 9
+#    price: 1950.70
+#    main_img: "product_img\sax.jpg"
+#    img1: "product_img\sax1.jpg"
+#    product_details: Saxophooooooooone

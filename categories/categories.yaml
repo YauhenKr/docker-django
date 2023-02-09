@@ -1,0 +1,12 @@
+- model: categories.Category
+  pk: 1
+  fields:
+    name: Guitars
+- model: categories.Category
+  pk: 2
+  fields:
+    name: Drums
+- model: categories.Category
+  pk: 3
+  fields:
+    name: Wind Group
