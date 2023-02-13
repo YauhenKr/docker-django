@@ -3,7 +3,7 @@ from django.urls import reverse
 from rest_framework.test import APITestCase
 
 from categories.models import Category, Subcategory
-from categories.serializers import CategorySerializer, SubcategorySerializer
+from categories.serializers import CategorySerializer
 
 
 class CategoryTests(APITestCase):
